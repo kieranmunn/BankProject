@@ -1,0 +1,352 @@
+2025.06.18 17:12:09 INFO  Started: Metals version 1.6.0 in folders 'C:\Users\kiera\OneDrive\Documents\git\BankProject\Project' for client Visual Studio Code 1.101.0.
+2025.06.18 17:12:09 INFO  no build target found for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystem.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.18 17:12:11 INFO  no build target found for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystem.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.18 17:12:12 INFO  Running List(C:\Users\kiera\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\kiera\OneDrive\Documents\git\BankProject\Project)
+2025.06.18 17:12:12 INFO  Attempting to connect to the build server...
+2025.06.18 17:12:12 INFO  Running BSP server List(C:\Users\kiera\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.scala-build\ide-envs.json, C:\Users\kiera\OneDrive\Documents\git\BankProject\Project)
+2025.06.18 17:12:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\bsp.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.18 17:12:13 INFO  no build target found for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystem.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.18 17:12:14 INFO  BSP server: Starting compilation server
+2025.06.18 17:12:15 INFO  time: Connected to build server in 2.89s
+2025.06.18 17:12:15 INFO  Connected to Build server: scala-cli v1.7.1
+2025.06.18 17:12:15 INFO  time: Imported build in 0.16s
+2025.06.18 17:12:16 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.18 17:12:19 INFO  time: compiled Project_d5c0a6989e in 2.78s
+2025.06.18 17:12:22 INFO  time: indexed workspace in 6.93s
+2025.06.20 12:50:08 INFO  no build target found for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala. Using presentation compiler with project's scala-library version: 3.6.4
+2025.06.20 12:50:08 INFO  no build target found for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala. Using presentation compiler with project's scala-library version: 3.6.4
+2025.06.20 12:50:09 INFO  no build target found for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala. Using presentation compiler with project's scala-library version: 3.6.4
+2025.06.20 12:50:08 WARN  no build target for: C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.20 12:50:08 INFO  no build target found for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala. Using presentation compiler with project's scala-library version: 3.6.4
+2025.06.20 12:50:08 WARN  Could not find semantic tokens for: file:///C:/Users/kiera/OneDrive/Documents/git/BankProject/Project/bankSystemTest.scala
+2025.06.20 12:50:10 INFO  no build target found for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala. Using presentation compiler with project's scala-library version: 3.6.4
+2025.06.20 12:50:10 INFO  no build target found for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala. Using presentation compiler with project's scala-library version: 3.6.4
+2025.06.20 12:50:10 INFO  no build target found for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala. Using presentation compiler with project's scala-library version: 3.6.4
+2025.06.20 12:50:11 INFO  no build target found for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala. Using presentation compiler with project's scala-library version: 3.6.4
+2025.06.20 12:50:11 INFO  time: Imported build in 0.13s
+2025.06.20 12:50:11 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.20 12:50:12 INFO  time: code lens generation in 1.21s
+2025.06.20 12:50:15 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.pom
+2025.06.20 12:50:15 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.pom
+2025.06.20 12:50:15 INFO  time: indexed workspace in 4.52s
+2025.06.20 12:50:15 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.pom
+2025.06.20 12:50:15 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.pom
+2025.06.20 12:50:15 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.pom.sha1
+2025.06.20 12:50:15 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.pom.sha1
+2025.06.20 12:50:15 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.pom.sha1
+2025.06.20 12:50:15 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.pom.sha1
+2025.06.20 12:50:16 INFO  time: compiled Project_d5c0a6989e in 0.13s
+2025.06.20 12:50:15 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.pom
+2025.06.20 12:50:15 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.pom
+2025.06.20 12:50:15 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.pom
+2025.06.20 12:50:15 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.pom.sha1
+2025.06.20 12:50:15 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.pom
+2025.06.20 12:50:15 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.pom.sha1
+2025.06.20 12:50:15 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.pom.sha1
+2025.06.20 12:50:15 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.pom.sha1
+2025.06.20 12:50:16 INFO  time: compiled Project_d5c0a6989e in 14ms
+2025.06.20 12:52:53 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$.<clinit>(DiscoveryFailures.scala:53)
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:92)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1456)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1112)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2025.06.20 12:52:53 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.pom
+2025.06.20 12:52:53 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.pom
+2025.06.20 12:52:54 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.pom
+2025.06.20 12:52:54 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.pom
+2025.06.20 12:52:54 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.pom
+2025.06.20 12:52:54 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-commons/1.10.2/junit-platform-commons-1.10.2.pom
+2025.06.20 12:52:54 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/1.10.2/junit-platform-engine-1.10.2.pom
+2025.06.20 12:52:54 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.pom
+2025.06.20 12:52:54 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.pom
+2025.06.20 12:52:54 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-commons/1.10.2/junit-platform-commons-1.10.2.pom
+2025.06.20 12:52:54 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.pom
+2025.06.20 12:52:54 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/1.10.2/junit-platform-engine-1.10.2.pom
+2025.06.20 12:52:54 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-commons/1.10.2/junit-platform-commons-1.10.2.jar
+2025.06.20 12:52:54 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2-sources.jar
+2025.06.20 12:52:54 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar
+2025.06.20 12:52:54 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/1.10.2/junit-platform-engine-1.10.2.jar
+2025.06.20 12:52:54 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-commons/1.10.2/junit-platform-commons-1.10.2-sources.jar
+2025.06.20 12:52:54 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.jar
+2025.06.20 12:52:54 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar
+2025.06.20 12:52:54 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
+2025.06.20 12:52:56 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-commons/1.10.2/junit-platform-commons-1.10.2-sources.jar
+2025.06.20 12:52:56 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2-sources.jar
+2025.06.20 12:52:56 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-commons/1.10.2/junit-platform-commons-1.10.2.jar
+2025.06.20 12:52:56 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0-sources.jar
+2025.06.20 12:52:56 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2-sources.jar
+2025.06.20 12:52:56 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2-sources.jar
+2025.06.20 12:52:56 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0-sources.jar
+2025.06.20 12:52:56 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/1.10.2/junit-platform-engine-1.10.2-sources.jar
+2025.06.20 12:52:58 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
+2025.06.20 12:52:58 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.jar
+2025.06.20 12:52:59 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/1.10.2/junit-platform-engine-1.10.2-sources.jar
+2025.06.20 12:53:00 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2-sources.jar
+2025.06.20 12:53:00 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2-sources.jar
+2025.06.20 12:53:00 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.jar
+2025.06.20 12:53:03 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/1.10.2/junit-platform-engine-1.10.2.jar
+2025.06.20 12:53:03 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.jar
+2025.06.20 12:53:03 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/
+2025.06.20 12:53:04 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/
+2025.06.20 12:53:04 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/maven-metadata.xml
+2025.06.20 12:53:04 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/maven-metadata.xml
+2025.06.20 12:53:04 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/
+2025.06.20 12:53:04 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/
+2025.06.20 12:53:04 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/maven-metadata.xml
+2025.06.20 12:53:04 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/maven-metadata.xml
+2025.06.20 12:53:04 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.20 12:53:04 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.20 12:53:04 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.20 12:53:04 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.20 12:53:04 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 12:53:04 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.20 12:53:04 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.20 12:53:04 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.20 12:53:04 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.20 12:53:04 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 12:53:04 INFO  Cancelling compilation on scala-cli server
+2025.06.20 12:53:04 INFO  compiling project_d5c0a6989e (2 scala sources)
+2025.06.20 12:53:06 INFO  time: compiled Project_d5c0a6989e in 1.53s
+2025.06.20 12:53:06 INFO  time: Imported build in 2.02s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.20 12:53:12 INFO  time: indexed workspace in 5.64s
+2025.06.20 12:53:13 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.20 12:53:13 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.20 12:53:13 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.20 12:53:13 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.20 12:53:13 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 12:53:13 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.20 12:53:13 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.20 12:53:13 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.20 12:53:13 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.20 12:53:13 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 12:53:13 INFO  compiling project_d5c0a6989e (2 scala sources)
+2025.06.20 12:53:13 INFO  time: compiled Project_d5c0a6989e in 0.71s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Jun 20, 2025 12:54:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 326
+2025.06.20 12:54:43 INFO  Created report: Optional[file:///C:/Users/kiera/OneDrive/Documents/git/BankProject/Project/bankSystemTest.scala]
+2025.06.20 12:54:43 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_12-54-43-380.md")
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Jun 20, 2025 12:55:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_compiler-error_(Project_d5c0a6989e)_12-55-41-253.md
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.20 12:56:02 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_12-54-43-380.md")
+2025.06.20 12:57:03 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.20 12:57:03 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.20 12:57:03 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.20 12:57:03 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.20 12:57:03 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 12:57:03 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.20 12:57:03 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.20 12:57:03 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.20 12:57:03 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.20 12:57:03 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 12:57:03 INFO  compiling project_d5c0a6989e (2 scala sources)
+2025.06.20 12:57:03 INFO  time: compiled Project_d5c0a6989e in 0.38s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Jun 20, 2025 12:57:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 933
+Jun 20, 2025 12:58:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1039
+Jun 20, 2025 1:02:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1263
+Jun 20, 2025 1:02:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1269
+Jun 20, 2025 1:02:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1370
+2025.06.20 13:03:00 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_12-54-43-380.md")
+2025.06.20 13:03:00 INFO  Created report: Optional[file:///C:/Users/kiera/OneDrive/Documents/git/BankProject/Project/bankSystemTest.scala]
+2025.06.20 13:03:00 INFO  empty definition using pc, found symbol in pc: assertEquals. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_13-03-00-373.md")
+Jun 20, 2025 1:03:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1446
+Jun 20, 2025 1:03:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1473
+2025.06.20 13:03:43 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.20 13:03:43 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.20 13:03:43 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.20 13:03:43 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.20 13:03:43 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:03:43 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.20 13:03:43 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.20 13:03:43 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.20 13:03:43 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.20 13:03:43 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:03:43 INFO  compiling project_d5c0a6989e (2 scala sources)
+2025.06.20 13:03:43 INFO  time: compiled Project_d5c0a6989e in 0.32s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.20 13:03:49 INFO  Created report: Optional[file:///C:/Users/kiera/OneDrive/Documents/git/BankProject/Project/bankSystemTest.scala]
+2025.06.20 13:03:49 INFO  empty definition using pc, found symbol in pc: deposit. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_13-03-49-724.md")
+2025.06.20 13:03:50 INFO  empty definition using pc, found symbol in pc: deposit. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_13-03-49-724.md")
+2025.06.20 13:07:13 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_12-54-43-380.md")
+2025.06.20 13:07:27 INFO  Created report: Optional[file:///C:/Users/kiera/OneDrive/Documents/git/BankProject/Project/bankSystem.scala]
+2025.06.20 13:07:27 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_13-07-27-869.md")
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Jun 20, 2025 1:18:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2114
+Exception in thread "pool-12-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025.06.20 13:18:47 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_13-07-27-869.md")
+Jun 20, 2025 1:19:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2301
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.20 13:20:56 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.20 13:20:56 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.20 13:20:56 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.20 13:20:56 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.20 13:20:56 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:20:56 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.20 13:20:56 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.20 13:20:56 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.20 13:20:56 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.20 13:20:56 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:20:56 INFO  compiling project_d5c0a6989e (2 scala sources)
+2025.06.20 13:20:56 INFO  time: compiled Project_d5c0a6989e in 0.58s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.20 13:21:27 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.20 13:21:27 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.20 13:21:27 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.20 13:21:27 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.20 13:21:27 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:21:27 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.20 13:21:27 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.20 13:21:27 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.20 13:21:27 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.20 13:21:27 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:21:27 INFO  compiling project_d5c0a6989e (2 scala sources)
+2025.06.20 13:21:27 INFO  time: compiled Project_d5c0a6989e in 0.84s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.20 13:22:44 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.20 13:22:44 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.20 13:22:44 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.20 13:22:44 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.20 13:22:44 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:22:44 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.20 13:22:44 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.20 13:22:44 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.20 13:22:44 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.20 13:22:44 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:22:44 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.20 13:22:44 INFO  time: compiled Project_d5c0a6989e in 0.44s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.20 13:23:23 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.20 13:23:23 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.20 13:23:23 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.20 13:23:23 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.20 13:23:23 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:23:23 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.20 13:23:23 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.20 13:23:23 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.20 13:23:23 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.20 13:23:23 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:23:23 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.20 13:23:23 INFO  time: compiled Project_d5c0a6989e in 0.29s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.20 13:24:00 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.20 13:24:00 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.20 13:24:00 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.20 13:24:00 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.20 13:24:00 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:24:00 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.20 13:24:00 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.20 13:24:00 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.20 13:24:00 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.20 13:24:00 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:24:00 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.20 13:24:00 INFO  time: compiled Project_d5c0a6989e in 0.27s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Jun 20, 2025 1:24:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3056
+2025.06.20 13:24:20 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.20 13:24:20 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.20 13:24:20 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.20 13:24:20 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.20 13:24:20 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:24:20 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.20 13:24:20 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.20 13:24:20 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.20 13:24:20 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.20 13:24:20 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:24:20 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.20 13:24:20 INFO  time: compiled Project_d5c0a6989e in 0.24s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.20 13:25:00 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.20 13:25:00 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.20 13:25:00 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.20 13:25:00 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.20 13:25:00 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:25:00 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.20 13:25:00 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.20 13:25:00 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.20 13:25:00 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.20 13:25:00 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:25:00 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.20 13:25:00 INFO  time: compiled Project_d5c0a6989e in 0.24s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.20 13:25:21 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.20 13:25:21 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.20 13:25:21 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.20 13:25:21 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.20 13:25:21 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:25:21 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.20 13:25:21 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.20 13:25:21 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.20 13:25:21 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.20 13:25:21 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:25:21 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.20 13:25:23 INFO  time: compiled Project_d5c0a6989e in 1.28s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Jun 20, 2025 1:27:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3277
+2025.06.20 13:27:31 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.20 13:27:31 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.20 13:27:31 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.20 13:27:31 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.20 13:27:31 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:27:31 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.20 13:27:31 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.20 13:27:31 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.20 13:27:31 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.20 13:27:31 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:27:31 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.20 13:27:31 INFO  time: compiled Project_d5c0a6989e in 0.93s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.20 13:30:18 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.20 13:30:18 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.20 13:30:18 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.20 13:30:18 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.20 13:30:18 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:30:18 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.20 13:30:18 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.20 13:30:18 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.20 13:30:18 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.20 13:30:18 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:30:18 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.20 13:30:18 INFO  time: compiled Project_d5c0a6989e in 0.64s
