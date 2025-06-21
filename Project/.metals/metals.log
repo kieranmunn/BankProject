@@ -350,3 +350,730 @@ exception caught when loading module class module-info$: java.lang.AssertionErro
 2025.06.20 13:30:18 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 2025.06.20 13:30:18 INFO  compiling project_d5c0a6989e (1 scala source)
 2025.06.20 13:30:18 INFO  time: compiled Project_d5c0a6989e in 0.64s
+2025.06.20 13:30:23 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-server.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.06.20 13:30:23 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-client.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.06.20 13:30:24 INFO  Starting debug proxy for [bankSystem]
+2025.06.20 13:30:25 INFO  Loaded expression compiler in 1 second
+2025.06.20 13:30:25 INFO  Loaded step filter in 138 milliseconds
+2025.06.20 13:30:31 INFO  Loaded all sources and classes in 5 seconds
+2025.06.20 13:30:33 INFO  Initialized Scala 3 decoder in 2 seconds
+2025.06.20 13:30:33 INFO  Trying to attach to remote debuggee VM 127.0.0.1:54114 .
+2025.06.20 13:30:33 INFO  Attaching to debuggee VM succeeded.
+2025.06.20 13:30:34 INFO  Canceling debug proxy for [bankSystem]
+2025.06.20 13:30:34 INFO  Closing debug server tcp://0.0.0.0:54111
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.20 13:31:40 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.20 13:31:40 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.20 13:31:40 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.20 13:31:40 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.20 13:31:40 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:31:40 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.20 13:31:40 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.20 13:31:40 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.20 13:31:40 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.20 13:31:40 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:31:40 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.20 13:31:40 INFO  time: compiled Project_d5c0a6989e in 0.78s
+2025.06.20 13:31:44 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-server.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.06.20 13:31:44 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-client.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.06.20 13:31:44 INFO  Starting debug proxy for [bankSystem]
+2025.06.20 13:31:44 INFO  Loaded expression compiler in 1 millisecond
+2025.06.20 13:31:44 INFO  Loaded step filter in 0 milliseconds
+2025.06.20 13:31:48 INFO  Loaded all sources and classes in 3 seconds
+2025.06.20 13:31:50 INFO  Initialized Scala 3 decoder in 1 second
+2025.06.20 13:31:50 INFO  Trying to attach to remote debuggee VM 127.0.0.1:54178 .
+2025.06.20 13:31:50 INFO  Attaching to debuggee VM succeeded.
+2025.06.20 13:31:50 INFO  Canceling debug proxy for [bankSystem]
+2025.06.20 13:31:50 INFO  Closing debug server tcp://0.0.0.0:54176
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.20 13:32:00 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.20 13:32:00 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.20 13:32:00 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.20 13:32:00 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.20 13:32:00 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:32:00 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.20 13:32:00 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.20 13:32:00 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.20 13:32:00 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.20 13:32:00 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:32:00 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.20 13:32:00 INFO  time: compiled Project_d5c0a6989e in 0.59s
+2025.06.20 13:32:03 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-server.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.06.20 13:32:03 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-client.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.06.20 13:32:03 INFO  Starting debug proxy for [bankSystem]
+2025.06.20 13:32:03 INFO  Loaded expression compiler in 0 milliseconds
+2025.06.20 13:32:03 INFO  Loaded step filter in 0 milliseconds
+2025.06.20 13:32:06 INFO  Loaded all sources and classes in 2 seconds
+2025.06.20 13:32:06 INFO  Initialized Scala 3 decoder in 698 milliseconds
+2025.06.20 13:32:06 INFO  Trying to attach to remote debuggee VM 127.0.0.1:54188 .
+2025.06.20 13:32:06 INFO  Attaching to debuggee VM succeeded.
+2025.06.20 13:32:07 INFO  Canceling debug proxy for [bankSystem]
+2025.06.20 13:32:07 INFO  Closing debug server tcp://0.0.0.0:54185
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.20 13:33:34 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.20 13:33:34 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.20 13:33:34 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.20 13:33:34 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.20 13:33:34 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:33:34 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.20 13:33:34 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.20 13:33:34 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.20 13:33:34 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.20 13:33:34 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.20 13:33:34 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.20 13:33:34 INFO  time: compiled Project_d5c0a6989e in 0.49s
+2025.06.20 13:33:37 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-server.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.06.20 13:33:37 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-client.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.06.20 13:33:37 INFO  Starting debug proxy for [bankSystem]
+2025.06.20 13:33:37 INFO  Loaded expression compiler in 0 milliseconds
+2025.06.20 13:33:37 INFO  Loaded step filter in 0 milliseconds
+2025.06.20 13:33:41 INFO  Loaded all sources and classes in 3 seconds
+2025.06.20 13:33:42 INFO  Initialized Scala 3 decoder in 1 second
+2025.06.20 13:33:42 INFO  Trying to attach to remote debuggee VM 127.0.0.1:54234 .
+2025.06.20 13:33:42 INFO  Attaching to debuggee VM succeeded.
+2025.06.20 13:33:43 INFO  Canceling debug proxy for [bankSystem]
+2025.06.20 13:33:42 INFO  Closing debug server tcp://0.0.0.0:54231
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.21 10:16:07 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_12-54-43-380.md")
+2025.06.21 10:16:09 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.21 10:16:09 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.21 10:16:09 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.21 10:16:09 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.21 10:16:09 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 10:16:09 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.21 10:16:09 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.21 10:16:09 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.21 10:16:09 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.21 10:16:09 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 10:16:09 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.21 10:16:11 INFO  time: compiled Project_d5c0a6989e in 1.72s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Jun 21, 2025 10:17:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3930
+2025.06.21 10:18:04 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.21 10:18:04 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.21 10:18:04 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.21 10:18:04 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.21 10:18:04 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 10:18:04 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.21 10:18:04 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.21 10:18:04 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.21 10:18:04 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.21 10:18:04 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 10:18:04 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.21 10:18:04 INFO  time: compiled Project_d5c0a6989e in 0.74s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.21 10:19:34 INFO  Report absolute-path: ### java.nio.file.FileSystemNotFoundException: Provider "output" not installed
+
+Uri: output:extension-output-formulahendry.code-runner-%231-Code
+
+
+#### Error stacktrace:
+
+```
+java.base/java.nio.file.Path.of(Path.java:213)
+	java.base/java.nio.file.Paths.get(Paths.java:98)
+	scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePathSafe(MetalsEnrichments.scala:768)
+	scala.meta.internal.metals.WorkspaceLspService.getServiceForOpt(WorkspaceLspService.scala:351)
+	scala.meta.internal.metals.WorkspaceLspService.getServiceFor(WorkspaceLspService.scala:360)
+	scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1111)
+	scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	java.base/java.lang.Thread.run(Thread.java:1583)
+```
+
+Jun 21, 2025 10:19:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: Provider "output" not installed
+java.nio.file.FileSystemNotFoundException: Provider "output" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$validate$1(DebugDiscovery.scala:82)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:82)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1456)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1112)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+2025.06.21 10:19:49 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-server.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.06.21 10:19:49 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-client.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.06.21 10:19:49 INFO  Starting debug proxy for [bankSystem]
+2025.06.21 10:19:49 INFO  Loaded expression compiler in 3 milliseconds
+2025.06.21 10:19:49 INFO  Loaded step filter in 0 milliseconds
+2025.06.21 10:19:54 INFO  Loaded all sources and classes in 5 seconds
+2025.06.21 10:19:55 INFO  Initialized Scala 3 decoder in 1 second
+2025.06.21 10:19:55 INFO  Trying to attach to remote debuggee VM 127.0.0.1:65367 .
+2025.06.21 10:19:55 INFO  Attaching to debuggee VM succeeded.
+2025.06.21 10:19:56 INFO  Canceling debug proxy for [bankSystem]
+2025.06.21 10:19:55 INFO  Closing debug server tcp://0.0.0.0:65365
+2025.06.21 10:20:02 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$: There is nothing to run or test in the current file.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$.<clinit>(DiscoveryFailures.scala:62)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$runOrTestFile$2(DebugDiscovery.scala:314)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugDiscovery.runOrTestFile(DebugDiscovery.scala:256)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$debugDiscovery$1(DebugDiscovery.scala:176)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2025.06.21 10:20:34 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$: There is nothing to run or test in the current file.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$.<clinit>(DiscoveryFailures.scala:62)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$runOrTestFile$2(DebugDiscovery.scala:314)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugDiscovery.runOrTestFile(DebugDiscovery.scala:256)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$debugDiscovery$1(DebugDiscovery.scala:176)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2025.06.21 10:21:01 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_13-07-27-869.md")
+2025.06.21 10:21:01 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_13-07-27-869.md")
+2025.06.21 10:21:02 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_13-07-27-869.md")
+2025.06.21 10:22:15 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.21 10:22:15 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.21 10:22:15 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.21 10:22:15 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.21 10:22:15 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 10:22:15 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.21 10:22:15 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.21 10:22:15 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.21 10:22:15 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.21 10:22:15 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 10:22:16 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.21 10:22:16 INFO  time: compiled Project_d5c0a6989e in 0.46s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.21 10:22:33 INFO  BSP server: [hint] .\bankSystemTest.scala:1:15
+2025.06.21 10:22:33 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.21 10:22:33 INFO  BSP server: [hint]      junit-jupiter-api 5.10.2 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.21 10:22:33 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.10.2
+2025.06.21 10:22:33 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 10:22:33 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.21 10:22:33 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.21 10:22:33 INFO  BSP server: [hint]      junit-jupiter-engine 5.10.2 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.21 10:22:33 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.10.2
+2025.06.21 10:22:33 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 10:22:33 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.21 10:22:33 INFO  time: compiled Project_d5c0a6989e in 0.52s
+2025.06.21 10:22:38 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$: There is nothing to run or test in the current file.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$.<clinit>(DiscoveryFailures.scala:62)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$runOrTestFile$2(DebugDiscovery.scala:314)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugDiscovery.runOrTestFile(DebugDiscovery.scala:256)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$debugDiscovery$1(DebugDiscovery.scala:176)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+Jun 21, 2025 10:22:54 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Exception in thread "pool-12-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025.06.21 10:30:39 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_12-54-43-380.md")
+2025.06.21 10:30:46 INFO  Created report: Optional[file:///C:/Users/kiera/OneDrive/Documents/git/BankProject/Project/bankSystemTest.scala]
+2025.06.21 10:30:46 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-21\r_empty-definition_(Project_5fd5c0a6989e)_10-30-46-714.md")
+2025.06.21 10:30:47 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-21\r_empty-definition_(Project_5fd5c0a6989e)_10-30-46-714.md")
+2025.06.21 10:30:47 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.13.1/junit-jupiter-engine-5.13.1.pom
+2025.06.21 10:30:47 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.13.1/junit-jupiter-api-5.13.1.pom
+2025.06.21 10:30:47 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.13.1/junit-jupiter-engine-5.13.1.pom
+2025.06.21 10:30:47 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.13.1/junit-jupiter-api-5.13.1.pom
+2025.06.21 10:30:47 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/junit-bom/5.13.1/junit-bom-5.13.1.pom
+2025.06.21 10:30:47 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/junit-bom/5.13.1/junit-bom-5.13.1.pom
+2025.06.21 10:30:47 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-commons/1.13.1/junit-platform-commons-1.13.1.pom
+2025.06.21 10:30:47 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/1.13.1/junit-platform-engine-1.13.1.pom
+2025.06.21 10:30:47 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-commons/1.13.1/junit-platform-commons-1.13.1.pom
+2025.06.21 10:30:47 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/1.13.1/junit-platform-engine-1.13.1.pom
+2025.06.21 10:30:47 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/1.13.1/junit-platform-engine-1.13.1-sources.jar
+2025.06.21 10:30:47 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.13.1/junit-jupiter-api-5.13.1-sources.jar
+2025.06.21 10:30:47 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/1.13.1/junit-platform-engine-1.13.1.jar
+2025.06.21 10:30:47 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.13.1/junit-jupiter-api-5.13.1.jar
+2025.06.21 10:30:47 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.13.1/junit-jupiter-engine-5.13.1-sources.jar
+2025.06.21 10:30:47 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-commons/1.13.1/junit-platform-commons-1.13.1.jar
+2025.06.21 10:30:47 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/1.13.1/junit-platform-engine-1.13.1-sources.jar
+2025.06.21 10:30:47 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-commons/1.13.1/junit-platform-commons-1.13.1-sources.jar
+2025.06.21 10:30:47 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.13.1/junit-jupiter-api-5.13.1-sources.jar
+2025.06.21 10:30:47 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.13.1/junit-jupiter-engine-5.13.1.jar
+2025.06.21 10:30:47 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-commons/1.13.1/junit-platform-commons-1.13.1-sources.jar
+2025.06.21 10:30:47 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.13.1/junit-jupiter-engine-5.13.1-sources.jar
+2025.06.21 10:30:48 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/1.13.1/junit-platform-engine-1.13.1.jar
+2025.06.21 10:30:48 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-commons/1.13.1/junit-platform-commons-1.13.1.jar
+2025.06.21 10:30:48 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.13.1/junit-jupiter-engine-5.13.1.jar
+2025.06.21 10:30:48 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.13.1/junit-jupiter-api-5.13.1.jar
+2025.06.21 10:30:48 INFO  Cancelling compilation on scala-cli server
+2025.06.21 10:30:48 INFO  compiling project_d5c0a6989e (2 scala sources)
+2025.06.21 10:30:48 INFO  time: compiled Project_d5c0a6989e in 0.72s
+2025.06.21 10:30:49 INFO  time: Imported build in 0.9s
+2025.06.21 10:30:54 INFO  time: indexed workspace in 5.17s
+2025.06.21 10:32:28 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.21 10:32:28 INFO  time: compiled Project_d5c0a6989e in 0.37s
+2025.06.21 10:32:29 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:32:30 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:32:31 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:32:32 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:32:32 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:32:44 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:32:45 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:32:46 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:32:50 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:32:53 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:32:54 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:32:55 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:32:56 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:32:58 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:32:58 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:32:58 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:32:59 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:33:00 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:32:59 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:33:01 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:33:01 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:33:01 WARN  Could not load snapshot text for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystemTest.scala
+2025.06.21 10:33:07 INFO  time: compiled Project_d5c0a6989e in 9ms
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.21 10:33:26 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.21 10:33:26 INFO  time: compiled Project_d5c0a6989e in 0.43s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.21 10:35:58 INFO  compiling project_d5c0a6989e (1 scala source)
+2025.06.21 10:35:58 INFO  time: compiled Project_d5c0a6989e in 0.4s
+2025.06.21 10:39:21 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$: There is nothing to run or test in the current file.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$.<clinit>(DiscoveryFailures.scala:62)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$runOrTestFile$2(DebugDiscovery.scala:314)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugDiscovery.runOrTestFile(DebugDiscovery.scala:256)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$debugDiscovery$1(DebugDiscovery.scala:176)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.21 10:42:08 INFO  BSP server: Checking https://repo1.maven.org/maven2/
+2025.06.21 10:42:08 INFO  BSP server: Checked https://repo1.maven.org/maven2/
+2025.06.21 10:42:08 INFO  BSP server: Downloading https://repo1.maven.org/maven2/
+2025.06.21 10:42:08 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/
+2025.06.21 10:42:08 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/
+2025.06.21 10:42:08 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/
+2025.06.21 10:42:08 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/
+2025.06.21 10:42:08 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/
+2025.06.21 10:42:08 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scalameta/
+2025.06.21 10:42:08 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scalameta/
+2025.06.21 10:42:08 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/
+2025.06.21 10:42:08 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/
+2025.06.21 10:42:08 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/semanticdb-scalac_2.13.16/
+2025.06.21 10:42:08 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/semanticdb-scalac_2.13.16/
+2025.06.21 10:42:08 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/semanticdb-scalac_2.13.16/maven-metadata.xml
+2025.06.21 10:42:09 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/semanticdb-scalac_2.13.16/maven-metadata.xml
+2025.06.21 10:42:09 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/semanticdb-scalac_2.13.16/4.13.7/semanticdb-scalac_2.13.16-4.13.7.pom
+2025.06.21 10:42:09 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/semanticdb-scalac_2.13.16/4.13.7/semanticdb-scalac_2.13.16-4.13.7.pom
+2025.06.21 10:42:09 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/semanticdb-scalac_2.13.16/4.13.7/semanticdb-scalac_2.13.16-4.13.7.jar
+2025.06.21 10:42:13 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/semanticdb-scalac_2.13.16/4.13.7/semanticdb-scalac_2.13.16-4.13.7.jar
+2025.06.21 10:42:13 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala2-sbt-bridge/2.13.16/scala2-sbt-bridge-2.13.16.pom
+2025.06.21 10:42:13 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala2-sbt-bridge/2.13.16/scala2-sbt-bridge-2.13.16.pom
+2025.06.21 10:42:13 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala2-sbt-bridge/2.13.16/scala2-sbt-bridge-2.13.16.jar
+2025.06.21 10:42:13 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala2-sbt-bridge/2.13.16/scala2-sbt-bridge-2.13.16.jar
+2025.06.21 10:42:13 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.9.3/junit-jupiter-engine-5.9.3.pom
+2025.06.21 10:42:13 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.9.3/junit-jupiter-api-5.9.3.pom
+2025.06.21 10:42:13 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-launcher/1.9.3/junit-platform-launcher-1.9.3.pom
+2025.06.21 10:42:13 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.9.3/junit-jupiter-engine-5.9.3.pom
+2025.06.21 10:42:13 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.9.3/junit-jupiter-api-5.9.3.pom
+2025.06.21 10:42:13 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-launcher/1.9.3/junit-platform-launcher-1.9.3.pom
+2025.06.21 10:42:13 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/junit-bom/5.9.3/junit-bom-5.9.3.pom
+2025.06.21 10:42:13 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/junit-bom/5.9.3/junit-bom-5.9.3.pom
+2025.06.21 10:42:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-commons/1.9.3/junit-platform-commons-1.9.3.pom
+2025.06.21 10:42:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.pom
+2025.06.21 10:42:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/1.9.3/junit-platform-engine-1.9.3.pom
+2025.06.21 10:42:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-commons/1.9.3/junit-platform-commons-1.9.3.pom
+2025.06.21 10:42:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.pom
+2025.06.21 10:42:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/1.9.3/junit-platform-engine-1.9.3.pom
+2025.06.21 10:42:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-commons/1.9.3/junit-platform-commons-1.9.3-sources.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-sources.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.9.3/junit-jupiter-engine-5.9.3-sources.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.9.3/junit-jupiter-api-5.9.3-sources.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-launcher/1.9.3/junit-platform-launcher-1.9.3-sources.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-commons/1.9.3/junit-platform-commons-1.9.3.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-commons/1.9.3/junit-platform-commons-1.9.3-sources.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0-sources.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.9.3/junit-jupiter-engine-5.9.3-sources.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/1.9.3/junit-platform-engine-1.9.3-sources.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0-sources.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-launcher/1.9.3/junit-platform-launcher-1.9.3.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-commons/1.9.3/junit-platform-commons-1.9.3.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.9.3/junit-jupiter-engine-5.9.3.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-launcher/1.9.3/junit-platform-launcher-1.9.3-sources.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.9.3/junit-jupiter-api-5.9.3.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-launcher/1.9.3/junit-platform-launcher-1.9.3.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/1.9.3/junit-platform-engine-1.9.3-sources.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/1.9.3/junit-platform-engine-1.9.3.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.9.3/junit-jupiter-api-5.9.3-sources.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-sources.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/1.9.3/junit-platform-engine-1.9.3.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.9.3/junit-jupiter-api-5.9.3.jar
+2025.06.21 10:42:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.9.3/junit-jupiter-engine-5.9.3.jar
+2025.06.21 10:42:15 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-launcher/
+2025.06.21 10:42:15 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-launcher/
+2025.06.21 10:42:15 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-launcher/maven-metadata.xml
+2025.06.21 10:42:15 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-launcher/maven-metadata.xml
+2025.06.21 10:42:15 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.21 10:42:15 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.21 10:42:15 INFO  BSP server: [hint]      junit-jupiter-api 5.9.3 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.21 10:42:15 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.9.3
+2025.06.21 10:42:15 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 10:42:15 INFO  BSP server: [hint] .\bankSystemTest.scala:3:15
+2025.06.21 10:42:15 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.21 10:42:15 INFO  BSP server: [hint]      junit-jupiter-engine 5.9.3 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.21 10:42:15 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.9.3
+2025.06.21 10:42:15 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 10:42:15 INFO  BSP server: [hint] .\bankSystemTest.scala:4:15
+2025.06.21 10:42:15 INFO  BSP server: [hint] "junit-platform-launcher is outdated, update to 1.13.1"
+2025.06.21 10:42:15 INFO  BSP server: [hint]      junit-platform-launcher 1.9.3 -> org.junit.platform:junit-platform-launcher:1.13.1
+2025.06.21 10:42:15 INFO  BSP server: [hint] //> using dep org.junit.platform:junit-platform-launcher:1.9.3
+2025.06.21 10:42:15 INFO  Cancelling compilation on scala-cli server
+2025.06.21 10:42:15 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 10:42:16 INFO  compiling project_d5c0a6989e (2 scala sources)
+2025.06.21 10:42:21 INFO  time: compiled Project_d5c0a6989e in 5.84s
+2025.06.21 10:42:22 INFO  time: Imported build in 6.12s
+2025.06.21 10:42:27 INFO  time: indexed workspace in 5.07s
+2025.06.21 10:42:27 INFO  BSP server: [hint] .\bankSystemTest.scala:2:15
+2025.06.21 10:42:27 INFO  BSP server: [hint] "junit-jupiter-api is outdated, update to 5.13.1"
+2025.06.21 10:42:27 INFO  BSP server: [hint]      junit-jupiter-api 5.9.3 -> org.junit.jupiter:junit-jupiter-api:5.13.1
+2025.06.21 10:42:27 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-api:5.9.3
+2025.06.21 10:42:27 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 10:42:27 INFO  BSP server: [hint] .\bankSystemTest.scala:3:15
+2025.06.21 10:42:27 INFO  BSP server: [hint] "junit-jupiter-engine is outdated, update to 5.13.1"
+2025.06.21 10:42:27 INFO  BSP server: [hint]      junit-jupiter-engine 5.9.3 -> org.junit.jupiter:junit-jupiter-engine:5.13.1
+2025.06.21 10:42:27 INFO  BSP server: [hint] //> using dep org.junit.jupiter:junit-jupiter-engine:5.9.3
+2025.06.21 10:42:27 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 10:42:27 INFO  BSP server: [hint] .\bankSystemTest.scala:4:15
+2025.06.21 10:42:27 INFO  BSP server: [hint] "junit-platform-launcher is outdated, update to 1.13.1"
+2025.06.21 10:42:27 INFO  BSP server: [hint]      junit-platform-launcher 1.9.3 -> org.junit.platform:junit-platform-launcher:1.13.1
+2025.06.21 10:42:27 INFO  BSP server: [hint] //> using dep org.junit.platform:junit-platform-launcher:1.9.3
+2025.06.21 10:42:27 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 12:25:27 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-launcher/1.13.1/junit-platform-launcher-1.13.1.pom
+2025.06.21 12:25:27 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-launcher/1.13.1/junit-platform-launcher-1.13.1.pom
+2025.06.21 12:25:27 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-launcher/1.13.1/junit-platform-launcher-1.13.1-sources.jar
+2025.06.21 12:25:27 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/junit/platform/junit-platform-launcher/1.13.1/junit-platform-launcher-1.13.1.jar
+2025.06.21 12:25:27 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-launcher/1.13.1/junit-platform-launcher-1.13.1-sources.jar
+2025.06.21 12:25:27 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/junit/platform/junit-platform-launcher/1.13.1/junit-platform-launcher-1.13.1.jar
+2025.06.21 12:25:28 INFO  Cancelling compilation on scala-cli server
+2025.06.21 12:25:28 INFO  compiling project_d5c0a6989e (2 scala sources)
+2025.06.21 12:25:30 INFO  time: compiled Project_d5c0a6989e in 1.63s
+2025.06.21 12:25:30 INFO  time: Imported build in 1.76s
+2025.06.21 12:25:34 INFO  time: indexed workspace in 4.17s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.21 12:26:49 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/munit_3/0.7.29/munit_3-0.7.29.pom
+2025.06.21 12:26:49 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/munit_3/0.7.29/munit_3-0.7.29.pom
+2025.06.21 12:26:49 INFO  BSP server: Downloading https://repo1.maven.org/maven2/junit/junit/4.13.1/junit-4.13.1.pom
+2025.06.21 12:26:49 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/junit-interface/0.7.29/junit-interface-0.7.29.pom
+2025.06.21 12:26:49 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/junit/junit/4.13.1/junit-4.13.1.pom
+2025.06.21 12:26:49 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/junit-interface/0.7.29/junit-interface-0.7.29.pom
+2025.06.21 12:26:49 INFO  BSP server: Downloading https://repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2.pom
+2025.06.21 12:26:49 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+2025.06.21 12:26:49 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+2025.06.21 12:26:49 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2.pom
+2025.06.21 12:26:49 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+2025.06.21 12:26:49 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+2025.06.21 12:26:49 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2025.06.21 12:26:49 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/munit_3/0.7.29/munit_3-0.7.29.jar
+2025.06.21 12:26:49 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2025.06.21 12:26:49 INFO  BSP server: Downloading https://repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar
+2025.06.21 12:26:49 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/junit-interface/0.7.29/junit-interface-0.7.29-sources.jar
+2025.06.21 12:26:49 INFO  BSP server: Downloading https://repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2-sources.jar
+2025.06.21 12:26:49 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2025.06.21 12:26:49 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/munit_3/0.7.29/munit_3-0.7.29-sources.jar
+2025.06.21 12:26:50 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/munit_3/0.7.29/munit_3-0.7.29-sources.jar
+2025.06.21 12:26:50 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0-sources.jar
+2025.06.21 12:26:50 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/munit_3/0.7.29/munit_3-0.7.29.jar
+2025.06.21 12:26:50 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/junit-interface/0.7.29/junit-interface-0.7.29.jar
+2025.06.21 12:26:50 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2025.06.21 12:26:50 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/junit-interface/0.7.29/junit-interface-0.7.29-sources.jar
+2025.06.21 12:26:50 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0-sources.jar
+2025.06.21 12:26:50 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/junit-interface/0.7.29/junit-interface-0.7.29.jar
+2025.06.21 12:26:50 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2-sources.jar
+2025.06.21 12:26:50 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar
+2025.06.21 12:26:51 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/munit_3/
+2025.06.21 12:26:51 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/munit_3/
+2025.06.21 12:26:51 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/munit_3/maven-metadata.xml
+2025.06.21 12:26:51 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/munit_3/maven-metadata.xml
+2025.06.21 12:26:51 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 12:26:51 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 12:26:51 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 12:26:51 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 12:26:51 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 12:26:51 INFO  Cancelling compilation on scala-cli server
+2025.06.21 12:26:51 INFO  compiling project_d5c0a6989e (2 scala sources)
+2025.06.21 12:26:53 INFO  time: compiled Project_d5c0a6989e in 1.52s
+2025.06.21 12:26:53 INFO  time: Imported build in 1.77s
+2025.06.21 12:26:57 INFO  time: indexed workspace in 3.94s
+2025.06.21 12:26:57 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 12:26:57 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 12:26:57 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 12:26:57 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 12:26:57 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 12:26:58 INFO  compiling project_d5c0a6989e (2 scala sources)
+2025.06.21 12:26:59 INFO  time: compiled Project_d5c0a6989e in 1.15s
+2025.06.21 12:27:12 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 12:27:12 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 12:27:12 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 12:27:12 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 12:27:12 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 12:27:12 INFO  compiling project_d5c0a6989e (2 scala sources)
+2025.06.21 12:27:12 INFO  time: compiled Project_d5c0a6989e in 0.37s
+Jun 21, 2025 12:27:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4697
+2025.06.21 12:27:23 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 12:27:23 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 12:27:23 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 12:27:23 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 12:27:23 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 12:27:23 INFO  compiling project_d5c0a6989e (2 scala sources)
+2025.06.21 12:27:23 INFO  time: compiled Project_d5c0a6989e in 0.85s
+2025.06.21 12:27:33 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 12:27:33 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 12:27:33 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 12:27:33 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 12:27:33 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 12:27:33 INFO  compiling project_d5c0a6989e (2 scala sources)
+2025.06.21 12:27:33 INFO  time: compiled Project_d5c0a6989e in 0.77s
+2025.06.21 12:27:41 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 12:27:41 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 12:27:41 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 12:27:41 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 12:27:41 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 12:27:41 INFO  compiling project_d5c0a6989e (2 scala sources)
+2025.06.21 12:27:41 INFO  time: compiled Project_d5c0a6989e in 0.4s
+2025.06.21 12:29:11 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 12:29:11 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 12:29:11 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 12:29:11 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 12:29:11 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 12:29:11 INFO  compiling project_d5c0a6989e (2 scala sources)
+2025.06.21 12:29:11 INFO  time: compiled Project_d5c0a6989e in 0.44s
+2025.06.21 12:29:32 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 12:29:32 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 12:29:32 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 12:29:32 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 12:29:32 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 12:29:33 INFO  compiling project_d5c0a6989e (2 scala sources)
+2025.06.21 12:29:33 INFO  time: compiled Project_d5c0a6989e in 0.3s
+2025.06.21 12:29:49 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 12:29:49 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 12:29:49 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 12:29:49 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 12:29:49 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 12:29:49 INFO  compiling project_d5c0a6989e (2 scala sources)
+2025.06.21 12:29:49 INFO  time: compiled Project_d5c0a6989e in 0.77s
+2025.06.21 12:32:32 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_12-54-43-380.md")
+2025.06.21 12:32:32 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 12:32:32 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 12:32:32 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 12:32:32 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 12:32:32 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 12:32:32 INFO  compiling project_d5c0a6989e (2 scala sources)
+2025.06.21 12:32:32 INFO  time: compiled Project_d5c0a6989e in 0.37s
+2025.06.21 12:39:31 INFO  Shutting down server
+2025.06.21 12:39:31 INFO  shutting down Metals
+2025.06.21 12:39:31 INFO  Shut down connection with build server.
+2025.06.21 12:39:31 INFO  Exiting server
+2025.06.21 19:11:19 INFO  Started: Metals version 1.6.0 in folders 'C:\Users\kiera\OneDrive\Documents\git\BankProject\Project' for client Visual Studio Code 1.101.1.
+2025.06.21 19:11:21 INFO  no build target found for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystem.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.21 19:11:24 INFO  no build target found for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystem.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.21 19:11:24 INFO  Attempting to connect to the build server...
+2025.06.21 19:11:24 INFO  Running BSP server List(C:\Users\kiera\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.scala-build\ide-envs.json, C:\Users\kiera\OneDrive\Documents\git\BankProject\Project)
+2025.06.21 19:11:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\bsp.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.21 19:11:28 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 19:11:28 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 19:11:28 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 19:11:28 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 19:11:28 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 19:11:28 INFO  time: Connected to build server in 3.42s
+2025.06.21 19:11:28 INFO  Connected to Build server: scala-cli v1.7.1
+2025.06.21 19:11:28 INFO  time: Imported build in 0.2s
+2025.06.21 19:11:28 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 19:11:28 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 19:11:28 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 19:11:28 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 19:11:28 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 19:11:29 INFO  compiling project_a74d228b15 (2 scala sources)
+2025.06.21 19:11:31 INFO  time: compiled Project_a74d228b15 in 2.18s
+2025.06.21 19:11:31 INFO  compiling project_a74d228b15 (2 scala sources)
+2025.06.21 19:11:31 INFO  time: compiled Project_a74d228b15 in 0.74s
+2025.06.21 19:11:36 INFO  time: indexed workspace in 8.22s
+2025.06.21 19:11:37 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 19:11:37 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 19:11:37 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 19:11:37 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 19:11:37 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 19:11:37 INFO  compiling project_a74d228b15 (2 scala sources)
+2025.06.21 19:11:37 INFO  time: compiled Project_a74d228b15 in 0.7s
+2025.06.21 19:16:46 INFO  Shutting down server
+2025.06.21 19:16:46 INFO  shutting down Metals
+2025.06.21 19:16:46 INFO  Shut down connection with build server.
+2025.06.21 19:16:46 INFO  Exiting server
+2025.06.21 19:17:27 INFO  Started: Metals version 1.6.0 in folders 'C:\Users\kiera\OneDrive\Documents\git\BankProject\Project' for client Visual Studio Code 1.101.1.
+2025.06.21 19:17:29 INFO  no build target found for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystem.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.21 19:17:31 INFO  no build target found for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystem.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.21 19:17:31 INFO  Attempting to connect to the build server...
+2025.06.21 19:17:31 INFO  Running BSP server List(C:\Users\kiera\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.scala-build\ide-envs.json, C:\Users\kiera\OneDrive\Documents\git\BankProject\Project)
+2025.06.21 19:17:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\bsp.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.21 19:17:33 INFO  no build target found for C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\bankSystem.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.21 19:17:33 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 19:17:33 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 19:17:33 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 19:17:33 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 19:17:33 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 19:17:33 INFO  time: Connected to build server in 2s
+2025.06.21 19:17:33 INFO  Connected to Build server: scala-cli v1.7.1
+2025.06.21 19:17:33 INFO  time: Imported build in 0.16s
+2025.06.21 19:17:33 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 19:17:33 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 19:17:33 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 19:17:33 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 19:17:33 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 19:17:34 INFO  compiling project_a74d228b15 (2 scala sources)
+2025.06.21 19:17:36 INFO  time: compiled Project_a74d228b15 in 1.75s
+2025.06.21 19:17:36 INFO  compiling project_a74d228b15 (2 scala sources)
+2025.06.21 19:17:36 INFO  time: compiled Project_a74d228b15 in 0.75s
+2025.06.21 19:17:39 INFO  time: indexed workspace in 6.29s
+2025.06.21 19:17:40 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 19:17:40 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 19:17:40 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 19:17:40 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 19:17:40 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 19:17:40 INFO  compiling project_a74d228b15 (2 scala sources)
+2025.06.21 19:17:40 INFO  time: compiled Project_a74d228b15 in 0.57s
+2025.06.21 19:18:03 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_13-07-27-869.md")
+2025.06.21 19:18:07 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 19:18:07 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 19:18:07 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 19:18:07 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 19:18:07 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 19:18:07 INFO  compiling project_a74d228b15 (2 scala sources)
+2025.06.21 19:18:09 INFO  time: compiled Project_a74d228b15 in 1.67s
+2025.06.21 19:18:22 INFO  Created report: Optional[file:///C:/Users/kiera/OneDrive/Documents/git/BankProject/Project/bankSystem.scala]
+2025.06.21 19:18:22 INFO  empty definition using pc, found symbol in pc: scala/Predef.String# (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-21\r_empty-definition_(Project_5fa74d228b15)_19-18-22-543.md")
+2025.06.21 19:18:28 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 19:18:28 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 19:18:28 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 19:18:28 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 19:18:28 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 19:18:28 INFO  compiling project_a74d228b15 (2 scala sources)
+2025.06.21 19:18:28 INFO  time: compiled Project_a74d228b15 in 0.44s
+2025.06.21 19:20:49 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 19:20:49 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 19:20:49 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 19:20:49 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 19:20:49 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 19:20:49 INFO  compiling project_a74d228b15 (2 scala sources)
+2025.06.21 19:20:51 INFO  time: compiled Project_a74d228b15 in 1.73s
+2025.06.21 19:21:13 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 19:21:13 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 19:21:13 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 19:21:13 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 19:21:13 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 19:21:13 INFO  compiling project_a74d228b15 (2 scala sources)
+2025.06.21 19:21:13 INFO  time: compiled Project_a74d228b15 in 0.63s
+2025.06.21 19:21:32 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_13-07-27-869.md")
+2025.06.21 19:21:32 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_13-07-27-869.md")
+2025.06.21 19:21:36 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 19:21:36 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 19:21:36 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 19:21:36 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 19:21:36 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 19:21:36 INFO  compiling project_a74d228b15 (2 scala sources)
+2025.06.21 19:21:36 INFO  time: compiled Project_a74d228b15 in 0.47s
+2025.06.21 19:21:42 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$.<clinit>(DiscoveryFailures.scala:53)
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:92)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1456)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1112)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2025.06.21 19:21:56 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$.<clinit>(DiscoveryFailures.scala:53)
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:92)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1456)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:1112)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2025.06.21 19:22:10 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_12-54-43-380.md")
+2025.06.21 19:22:30 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 19:22:30 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 19:22:30 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 19:22:30 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 19:22:30 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 19:22:30 INFO  compiling project_a74d228b15 (2 scala sources)
+2025.06.21 19:22:32 INFO  time: compiled Project_a74d228b15 in 1.18s
