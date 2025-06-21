@@ -1077,3 +1077,152 @@ WARNING: Unmatched cancel notification for request id 4697
 2025.06.21 19:22:30 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 2025.06.21 19:22:30 INFO  compiling project_a74d228b15 (2 scala sources)
 2025.06.21 19:22:32 INFO  time: compiled Project_a74d228b15 in 1.18s
+2025.06.21 19:22:41 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 19:22:41 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 19:22:41 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 19:22:41 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 19:22:41 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 19:22:41 INFO  compiling project_a74d228b15 (2 scala sources)
+2025.06.21 19:22:43 INFO  time: compiled Project_a74d228b15 in 1.73s
+2025.06.21 19:22:46 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$: There is nothing to run or test in the current file.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$.<clinit>(DiscoveryFailures.scala:62)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$runOrTestFile$2(DebugDiscovery.scala:314)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugDiscovery.runOrTestFile(DebugDiscovery.scala:256)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$debugDiscovery$1(DebugDiscovery.scala:176)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2025.06.21 19:22:49 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-server.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.06.21 19:22:49 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-client.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.06.21 19:22:49 INFO  Starting debug proxy for [bankSystem]
+2025.06.21 19:22:49 INFO  Loaded expression compiler in 4 milliseconds
+2025.06.21 19:22:49 INFO  Loaded step filter in 0 milliseconds
+2025.06.21 19:22:54 INFO  Loaded all sources and classes in 4 seconds
+2025.06.21 19:22:56 INFO  Initialized Scala 3 decoder in 1 second
+2025.06.21 19:22:56 INFO  Trying to attach to remote debuggee VM 127.0.0.1:51610 .
+2025.06.21 19:22:56 INFO  Attaching to debuggee VM succeeded.
+2025.06.21 19:22:56 INFO  Closing debug server tcp://0.0.0.0:51608
+2025.06.21 19:22:57 INFO  Canceling debug proxy for [bankSystem]
+2025.06.21 19:25:29 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 19:25:29 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 19:25:29 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 19:25:29 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 19:25:29 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 19:25:29 INFO  compiling project_a74d228b15 (1 scala source)
+2025.06.21 19:25:29 INFO  time: compiled Project_a74d228b15 in 0.66s
+2025.06.21 19:25:32 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-server.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.06.21 19:25:32 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-client.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.06.21 19:25:32 INFO  Starting debug proxy for [bankSystem]
+2025.06.21 19:25:32 INFO  Loaded expression compiler in 0 milliseconds
+2025.06.21 19:25:32 INFO  Loaded step filter in 0 milliseconds
+2025.06.21 19:25:37 INFO  Loaded all sources and classes in 4 seconds
+2025.06.21 19:25:37 INFO  Initialized Scala 3 decoder in 814 milliseconds
+2025.06.21 19:25:37 INFO  Trying to attach to remote debuggee VM 127.0.0.1:51636 .
+2025.06.21 19:25:37 INFO  Attaching to debuggee VM succeeded.
+2025.06.21 19:25:39 INFO  Closing debug server tcp://0.0.0.0:51634
+2025.06.21 19:25:39 INFO  Canceling debug proxy for [bankSystem]
+Jun 21, 2025 7:29:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 834
+Jun 21, 2025 7:29:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 885
+Jun 21, 2025 7:30:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 965
+Jun 21, 2025 7:30:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1014
+Jun 21, 2025 7:30:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1016
+Jun 21, 2025 7:30:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1041
+Jun 21, 2025 7:30:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1100
+Jun 21, 2025 7:30:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1123
+Jun 21, 2025 7:30:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1128
+2025.06.21 19:30:57 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 19:30:57 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 19:30:57 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 19:30:57 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 19:30:57 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 19:30:57 INFO  compiling project_a74d228b15 (1 scala source)
+2025.06.21 19:30:57 INFO  time: compiled Project_a74d228b15 in 0.66s
+2025.06.21 19:31:00 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-server.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.06.21 19:31:00 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-client.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.06.21 19:31:01 INFO  Starting debug proxy for [bankSystem]
+2025.06.21 19:31:01 INFO  Loaded expression compiler in 1 millisecond
+2025.06.21 19:31:01 INFO  Loaded step filter in 0 milliseconds
+2025.06.21 19:31:05 INFO  Loaded all sources and classes in 4 seconds
+2025.06.21 19:31:06 INFO  Initialized Scala 3 decoder in 1 second
+2025.06.21 19:31:06 INFO  Trying to attach to remote debuggee VM 127.0.0.1:51717 .
+2025.06.21 19:31:06 INFO  Attaching to debuggee VM succeeded.
+2025.06.21 19:31:07 INFO  Canceling debug proxy for [bankSystem]
+2025.06.21 19:31:06 INFO  Closing debug server tcp://0.0.0.0:51714
+2025.06.21 19:31:48 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 19:31:48 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 19:31:48 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 19:31:48 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 19:31:48 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 19:31:48 INFO  compiling project_a74d228b15 (1 scala source)
+2025.06.21 19:31:48 INFO  time: compiled Project_a74d228b15 in 0.62s
+2025.06.21 19:31:52 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-server.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.06.21 19:31:52 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-client.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.06.21 19:31:52 INFO  Starting debug proxy for [bankSystem]
+2025.06.21 19:31:52 INFO  Loaded expression compiler in 1 millisecond
+2025.06.21 19:31:52 INFO  Loaded step filter in 0 milliseconds
+2025.06.21 19:31:56 INFO  Loaded all sources and classes in 4 seconds
+2025.06.21 19:31:58 INFO  Initialized Scala 3 decoder in 1 second
+2025.06.21 19:31:58 INFO  Trying to attach to remote debuggee VM 127.0.0.1:51724 .
+2025.06.21 19:31:58 INFO  Attaching to debuggee VM succeeded.
+2025.06.21 19:31:59 INFO  Canceling debug proxy for [bankSystem]
+2025.06.21 19:31:58 INFO  Closing debug server tcp://0.0.0.0:51721
+Jun 21, 2025 7:33:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1511
+Jun 21, 2025 7:34:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1594
+Jun 21, 2025 7:34:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1694
+Jun 21, 2025 7:34:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1698
+Jun 21, 2025 7:34:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1699
+Jun 21, 2025 7:34:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1709
+Jun 21, 2025 7:34:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1724
+Jun 21, 2025 7:34:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1725
+Jun 21, 2025 7:34:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1726
+Jun 21, 2025 7:34:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1757
+2025.06.21 19:34:34 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_13-07-27-869.md")
+2025.06.21 19:35:24 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 19:35:24 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 19:35:24 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 19:35:24 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 19:35:24 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 19:35:24 INFO  compiling project_a74d228b15 (1 scala source)
+2025.06.21 19:35:24 INFO  time: compiled Project_a74d228b15 in 0.69s
+2025.06.21 19:35:37 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_13-07-27-869.md")
+2025.06.21 19:35:38 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\.reports\metals-full\2025-06-20\r_empty-definition_(Project_5fd5c0a6989e)_13-07-27-869.md")
+2025.06.21 19:35:40 INFO  BSP server: [hint] .\bankSystemTest.scala:1:16
+2025.06.21 19:35:40 INFO  BSP server: [hint] "munit is outdated, update to 1.1.1"
+2025.06.21 19:35:40 INFO  BSP server: [hint]      munit 0.7.29 -> org.scalameta::munit:1.1.1
+2025.06.21 19:35:40 INFO  BSP server: [hint] //> using dep "org.scalameta::munit:0.7.29"
+2025.06.21 19:35:40 INFO  BSP server: [hint]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.06.21 19:35:41 INFO  compiling project_a74d228b15 (1 scala source)
+2025.06.21 19:35:41 INFO  time: compiled Project_a74d228b15 in 0.53s
+2025.06.21 19:35:42 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-server.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.06.21 19:35:42 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kiera\OneDrive\Documents\git\BankProject\Project\.metals\dap-client.trace.json or C:\Users\kiera\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.06.21 19:35:42 INFO  Starting debug proxy for [bankSystem]
+2025.06.21 19:35:42 INFO  Loaded expression compiler in 1 millisecond
+2025.06.21 19:35:42 INFO  Loaded step filter in 0 milliseconds
+2025.06.21 19:35:47 INFO  Loaded all sources and classes in 4 seconds
+2025.06.21 19:35:48 INFO  Initialized Scala 3 decoder in 1 second
+2025.06.21 19:35:48 INFO  Trying to attach to remote debuggee VM 127.0.0.1:51754 .
+2025.06.21 19:35:48 INFO  Attaching to debuggee VM succeeded.
+2025.06.21 19:35:49 INFO  Canceling debug proxy for [bankSystem]
+2025.06.21 19:35:48 INFO  Closing debug server tcp://0.0.0.0:51751
